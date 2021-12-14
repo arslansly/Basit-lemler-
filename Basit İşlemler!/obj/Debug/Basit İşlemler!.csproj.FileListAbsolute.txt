@@ -1,0 +1,12 @@
+C:\Users\Suleyman.Arslan\source\repos\Basit İşlemler!\Basit İşlemler!\bin\Debug\Basit İşlemler!.exe.config
+C:\Users\Suleyman.Arslan\source\repos\Basit İşlemler!\Basit İşlemler!\bin\Debug\Basit İşlemler!.exe
+C:\Users\Suleyman.Arslan\source\repos\Basit İşlemler!\Basit İşlemler!\bin\Debug\Basit İşlemler!.pdb
+C:\Users\Suleyman.Arslan\source\repos\Basit İşlemler!\Basit İşlemler!\obj\Debug\Basit İşlemler!.csproj.AssemblyReference.cache
+C:\Users\Suleyman.Arslan\source\repos\Basit İşlemler!\Basit İşlemler!\obj\Debug\Basit_İşlemler_.Form1.resources
+C:\Users\Suleyman.Arslan\source\repos\Basit İşlemler!\Basit İşlemler!\obj\Debug\Basit_İşlemler_.Properties.Resources.resources
+C:\Users\Suleyman.Arslan\source\repos\Basit İşlemler!\Basit İşlemler!\obj\Debug\Basit İşlemler!.csproj.GenerateResource.cache
+C:\Users\Suleyman.Arslan\source\repos\Basit İşlemler!\Basit İşlemler!\obj\Debug\Basit İşlemler!.csproj.CoreCompileInputs.cache
+C:\Users\Suleyman.Arslan\source\repos\Basit İşlemler!\Basit İşlemler!\obj\Debug\Basit İşlemler!.exe
+C:\Users\Suleyman.Arslan\source\repos\Basit İşlemler!\Basit İşlemler!\obj\Debug\Basit İşlemler!.pdb
+C:\Users\Suleyman.Arslan\source\repos\Basit İşlemler!\Basit İşlemler!\obj\Debug\Basit_İşlemler_.Form2.resources
+C:\Users\Suleyman.Arslan\source\repos\Basit İşlemler!\Basit İşlemler!\obj\Debug\Basit_İşlemler_.Form3.resources
